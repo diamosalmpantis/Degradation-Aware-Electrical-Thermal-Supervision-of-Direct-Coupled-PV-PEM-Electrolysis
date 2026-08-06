@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.csv
+*.xlsx
+*.png
+*.pdf
+*.zip
+Results*/
+*_Study/
+.ipynb_checkpoints/
+.DS_Store
